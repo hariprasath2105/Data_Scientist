@@ -12,22 +12,22 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 ### 1. Classification
 
-- **Decision Trees** – [Decision Tree Repo](https://github.com/Deepakprasath10/DecisionTree)  
-- **Random Forest** – [Random Forest Repo](https://github.com/Deepakprasath10/Random_forest)  
-- **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/Deepakprasath10/Svm)  
-- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/Deepakprasath10/KNN/tree/main)  
-- **Logistic Regression** – [Logistic Regression Repo](https://github.com/Deepakprasath10/Logistic)  
-- **Naive Bayes** – [Naive Bayes Repo](https://github.com/Deepakprasath10/naive)  
-- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/Deepakprasath10/Gradient)
+- **Decision Trees** – [Decision Tree Repo](https://github.com/hariprasath2105/Decision_Tree)  
+- **Random Forest** – [Random Forest Repo](https://github.com/hariprasath2105/Random_Forest)  
+- **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/hariprasath2105/SVM)  
+- **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/hariprasath2105/KNN)  
+- **Logistic Regression** – [Logistic Regression Repo](https://github.com/hariprasath2105/Logistic_Regression)  
+- **Naive Bayes** – [Naive Bayes Repo](https://github.com/hariprasath2105/Naive_Bayes)  
+- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/hariprasath2105/Gradient_Boosting)
 
 ---
 
 ### 2. Regression
 
-- **Linear Regression** – [Linear Regression Repo](https://github.com/Deepakprasath10/Linear)  
-- **Ridge Regression** – [Ridge Regression Repo](https://github.com/Deepakprasath10/Rigid)  
-- **Lasso Regression** – [Lasso Regression Repo](https://github.com/Deepakprasath10/Lasso)  
-- **Elastic Net Regression** – [Elastic Net Repo](https://github.com/Deepakprasath10/Elastic)
+- **Linear Regression** – [Linear Regression Repo](https://github.com/hariprasath2105/Linear_Regression)  
+- **Ridge Regression** – [Ridge Regression Repo](https://github.com/hariprasath2105/Ridge_Regression)  
+- **Lasso Regression** – [Lasso Regression Repo](https://github.com/hariprasath2105/Lasso_Regression)  
+- **Elastic Net Regression** – [Elastic Net Repo](https://github.com/hariprasath2105/Elastic_Net)
 
 ---
 
@@ -37,12 +37,12 @@ Unsupervised learning uses **unlabeled data** to find patterns and relationships
 
 ### 1. Clustering
 
-- **K-Means** – [K-Means Repo](https://github.com/Deepakprasath10/K_Means)  
-- **Hierarchical Clustering** – [Hierarchical Clustering Repo](https://github.com/Deepakprasath10/Hierarchical)  
-- **DBSCAN** – [DBSCAN Repo](https://github.com/Deepakprasath10/Dbscan)
+- **K-Means** – [K-Means Repo](https://github.com/hariprasath2105/K-Means_Clustering)  
+- **Hierarchical Clustering** – [Hierarchical Clustering Repo](https://github.com/hariprasath2105/Heirarchical_Clustering)  
+- **DB_SCAN** – [DB_SCAN Repo](https://github.com/hariprasath2105/DB_Scan)
 
 ### 2. Dimensionality Reduction
 
-- **PCA (Principal Component Analysis)** – [PCA Repo](https://github.com/Deepakprasath10/PCA)
+- **PCA (Principal Component Analysis)** – [PCA Repo](https://github.com/hariprasath2105/PCA)
 
 ---
