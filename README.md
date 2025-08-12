@@ -6,11 +6,11 @@ This repository contains a collection of **Machine Learning algorithms** organiz
 
 ---
 
-## Supervised Learning
+## Supervised Learning 
 
 Supervised learning uses labeled data to train models for predictions. It is divided into two types:
 
-### 1. Classification
+### 1. Classification - (Flask App)
 
 - **Decision Trees** – [Decision Tree Repo](https://github.com/hariprasath2105/Decision_Tree)  
 - **Random Forest** – [Random Forest Repo](https://github.com/hariprasath2105/Random_Forest)  
@@ -22,7 +22,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 ---
 
-### 2. Regression
+### 2. Regression - (Gradio App)
 
 - **Linear Regression** – [Linear Regression Repo](https://github.com/hariprasath2105/Linear_Regression)  
 - **Ridge Regression** – [Ridge Regression Repo](https://github.com/hariprasath2105/Ridge_Regression)  
@@ -35,13 +35,13 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 Unsupervised learning uses **unlabeled data** to find patterns and relationships.
 
-### 1. Clustering
+### 1. Clustering - (Flask App)
 
 - **K-Means** – [K-Means Repo](https://github.com/hariprasath2105/K-Means_Clustering)  
 - **Hierarchical Clustering** – [Hierarchical Clustering Repo](https://github.com/hariprasath2105/Heirarchical_Clustering)  
 - **DB_SCAN** – [DB_SCAN Repo](https://github.com/hariprasath2105/DB_Scan)
 
-### 2. Dimensionality Reduction
+### 2. Dimensionality Reduction - (Flask App)
 
 - **PCA (Principal Component Analysis)** – [PCA Repo](https://github.com/hariprasath2105/PCA)
 
